@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const grid = document.querySelector(".grid.g_three.config");
 
-  fetch("../json/configs-pc.json")
+  fetch("./json/configs-pc.json")
     .then((response) => response.json())
     .then((jsonData) => {
       jsonData.forEach((config) => {
