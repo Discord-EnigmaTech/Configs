@@ -9,6 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
     "Video Card": "https://img.icons8.com/tiny-color/16/video-card.png",
     "Case": "https://img.icons8.com/tiny-color/16/server.png",
     "PSU": "https://img.icons8.com/tiny-color/16/hdd.png",
+    "Monitor": "https://img.icons8.com/tiny-color/16/monitor.png",
+    "Keyboard": "https://img.icons8.com/tiny-color/16/keyboard.png",
+    "Mouse": "https://img.icons8.com/tiny-color/16/mouse.png",
   };
   
 

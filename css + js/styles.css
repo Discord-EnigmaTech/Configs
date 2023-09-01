@@ -1,3 +1,8 @@
+.fa-solid {
+  width: 10px;
+  height: 10px;
+  margin-left: 10px;
+}
 .str-style {
   stroke-dasharray: 700;
   stroke-dashoffset: 1000;
