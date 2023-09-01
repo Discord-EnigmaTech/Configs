@@ -1,5 +1,63 @@
 [
   {
+    "name": "Setup 1900€ Thanakino",
+    "date": "1/09/2023",
+    "description": "Config très haut de gamme",
+    "tags": ["Gaming, Streaming, Création de contenu"],
+    "parts": [
+      {
+        "name": "i5-13600KF",
+        "type": "Processor",
+        "link": "https://amzn.to/3Pmuyfe"
+      },
+      {
+        "name": "Deepcool LS720 SE",
+        "type": "Fan",
+        "link": "https://amzn.to/44zGvT5"
+      },
+      {
+        "name": "MSI B760-P Wifi",
+        "type": "Motherboard",
+        "link": "https://amzn.to/3OZbe6v"
+      },
+      {
+        "name": "Kingston FURY Beast 32 GB (2x16GB)",
+        "type": "RAM",
+        "link": "https://amzn.to/3sC9Ij6"
+      },
+      {
+        "name": "Sabrent Rocket 4.0 1TB",
+        "type": "SSD",
+        "link": "https://amzn.to/3EsW30h"
+      },
+      {
+        "name": "XFX Speedster MERC310 RX 7900 XT",
+        "type": "Video Card",
+        "link": "https://amzn.to/47Vnaid"
+      },
+      {
+        "name": "Phanteks G360A",
+        "type": "Case",
+        "link": "https://amzn.to/3OUAWZK"
+      },
+      {
+        "name": "MSI MPG A750GF 750W",
+        "type": "PSU",
+        "link": "https://amzn.to/3P2mrTB"
+      },
+      {
+        "name": "DEEPCOOL FK120 (x1)",
+        "type": "Fan",
+        "link": "https://amzn.to/3EfFF38"
+      },
+      {
+        "name": "LG UltraGear 27GP850P-B",
+        "type": "Monitor",
+        "link": "https://amzn.to/3R7zCW6"
+      }
+    ]
+  },
+  {
     "name": "Setup 2100€ MunHaxx",
     "date": "1/09/2023",
     "description": "Config très haut de gamme",
@@ -13,7 +71,7 @@
       {
         "name": "Deepcool AK620",
         "type": "Fan",
-        "link": "https://amzn.to/44COqz0"
+        "link": "https://amzn.to/45QRTv5"
       },
       {
         "name": "MSI B760-P Wifi",
