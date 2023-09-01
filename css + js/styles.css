@@ -15,6 +15,13 @@
   cursor: -o-grabbing;
   cursor: grabbing;
 }
+hr {
+  width: 25vw;
+  height: 1px;
+  background-color: #7895CB;
+  border: none;
+  margin-bottom: 5px;
+}
 .before-style, header h3::before, header ul li::before, section h2::before, footer .foo_logo::before {
   position: absolute;
   top: calc(100% + 4px);
@@ -167,142 +174,64 @@ section h2 {
 section h2::before {
   width: 50px;
 }
-section#section1 {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
+section#section3 h2 {
+  margin-top: 100px;
 }
-section#section1::before {
-  position: absolute;
-  content: '';
-  top: 0;
-  left: 0;
-  z-index: 0;
+section#section3 .post {
+  padding: 0.25em 0.5em;
+  display: flex;
   width: 100%;
-  height: 100%;
-  background-color: #191a1d;
-  opacity: 0.5;
+  flex-direction: column;
+  justify-content: center;
+  border: 4px solid transparent;
+  border-radius: 0.35em;
+  transition: transform 0.2s linear;
 }
-.c-faq__answer {
+section#section3 .post h3 {
+  margin: 0;
+}
+section#section3 .post h3:hover {
+  color: #7895CB;
+}
+section#section3 .post .date {
+  color: #666;
+}
+section#section3 .post .tags {
+  position: relative;
+  padding: 0.5em 0;
+  padding-left: 30px;
+  border-top: 1px solid #312d3c;
+  color: #666;
+}
+section#section3 .post .tags a {
+  color: #666;
+}
+section#section3 .post .tags::before {
   position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
-.container {
-  width: 75%;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: rgba(26, 55, 109, .85);
-  border-radius: 25px;
-  z-index: 1;
-  padding: 25px;
-}
-.section__headline {
-  font-size: 62px;
-  font-weight: light;
-  color: #7895CB;
-  padding-left: 15px;
-  padding-top: 30px;
-}
-.c-faqs__headline {
-  text-align: left;
-  padding-left: 15px;
-  font-size: 1.5em;
-  margin-top: 1.5em;
-  font-weight: bold;
-}
-.c-faqs {
-  margin: 15px 0;
-  padding: 0 15px;
-  border-top: 1px solid transparent;
-  border-bottom: 1px solid transparent;
-}
-.c-faq {
-  list-style: none;
-  margin: 10px 0 5px;
-}
-.c-faq__title {
-  cursor: pointer;
-  font-weight: 500;
-  z-index: 10;
-  position: relative;
-  font-size: 1.35em;
-}
-.c-faq__title:hover {
-  text-decoration: underline;
-}
-.c-faq__title::after {
-  white-space: nowrap;
-  font-weight: 300;
-  padding-left: 5px;
-  opacity: 0;
-  transform-origin: 11px;
-  transform: rotateZ(90deg);
-  display: none;
-  content: ">";
-}
-.c-faq--active .c-faq__title {
-  color: #7895CB;
-}
-.c-faq--active .c-faq__title::after {
-  opacity: 1;
-  transform: rotateZ(90deg);
-  display: inline-block;
-}
-.c-faq__answer {
-  font-weight: normal;
-  margin-top: -10%;
-  transition: all 0.1s;
-  z-index: 1;
-  font-size: 1.1em;
-  color: white;
-}
-.c-faq--active .c-faq__answer {
-  opacity: 1;
-  position: relative;
-  top: 0;
   left: 0;
-  font-weight: 300;
-  margin-top: 5px;
-  margin-bottom: 10px;
-  transition: all 0.2s;
-  border-radius: 3px;
-  border: 1px solid #f1f2f3;
-  border-top: 1px solid #7895CB;
-  padding: 20px;
+  content: '\f02c';
+  font-family: 'FontAwesome';
 }
-@media (min-width: 780px) {
-  .c-faqs {
-      position: relative;
-      margin-left: auto;
-      margin-right: auto;
-      height: auto;
- }
-  .c-faqs::before {
-      opacity: 0.2;
- }
-  .c-faq {
-      margin-top: 15px;
-      margin-bottom: 15px;
- }
-  .c-faq .c-faq__title {
-      width: 50%;
-      padding-right: 40px;
-      display: inline-block;
- }
-  .c-faq .c-faq__title::after {
-      display: none;
- }
-  .c-faq .c-faq__answer {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      left: 50%;
-      width: 50%;
-      border-left-color: #7895CB;
-      border-top-color: #f1f2f3;
- }
+section#section3 .post p {
+  margin: 0 0 10px 0;
 }
+section#section3 .post:hover {
+  transform: scale(0.98);
+  background-color: #191a1d;
+}
+section#section3 .post:hover:hover h3 {
+  color: #7895CB;
+}
+section#section3 .grid {
+  margin-top: 50px;
+}
+section#section3 .pc-icon {
+  width: 16px;
+  height: 16px;
+  margin: 0 15px 0 15px
+}
+
 section#pub {
   min-height: 50vh;
 }
