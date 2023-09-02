@@ -1,5 +1,58 @@
 [
   {
+    "name": "Setup 1440€ Thanakino",
+    "date": "1/09/2023",
+    "description": "Config très haut de gamme",
+    "tags": ["Gaming, Streaming, Création de contenu"],
+    "parts": [
+      {
+        "name": "i5-13500",
+        "type": "Processor",
+        "link": "https://amzn.to/3sDeNYy"
+      },
+      {
+        "name": "Thermalright Peerless Assassin 120 SE ARGB",
+        "type": "Fan",
+        "link": "https://amzn.to/3P0r0Oo"
+      },
+      {
+        "name": "MSI B760-P Wifi",
+        "type": "Motherboard",
+        "link": "https://amzn.to/3OZbe6v"
+      },
+      {
+        "name": "TEAMGROUP T-Force Vulcan Z (2x16GB)",
+        "type": "RAM",
+        "link": "https://amzn.to/480xiX6"
+      },
+      {
+        "name": "Lexar 1TB NM710",
+        "type": "SSD",
+        "link": "https://amzn.to/47Sa2ul"
+      },
+      {
+        "name": "XFX Speedster MERC310 RX 6950XT",
+        "type": "Video Card",
+        "link": "https://amzn.to/3R2eNv9"
+      },
+      {
+        "name": "Phanteks G360A",
+        "type": "Case",
+        "link": "https://amzn.to/3OUAWZK"
+      },
+      {
+        "name": "MSI MPG A750GF 750W",
+        "type": "PSU",
+        "link": "https://amzn.to/3ZhacYp"
+      },
+      {
+        "name": "DEEPCOOL FK120 (x1)",
+        "type": "Fan",
+        "link": "https://amzn.to/3EfFF38"
+      }
+    ]
+  },
+  {
     "name": "Setup 1900€ Thanakino",
     "date": "1/09/2023",
     "description": "Config très haut de gamme",
@@ -127,7 +180,7 @@
     "tags": ["Gaming, Streaming, Création de contenu"],
     "parts": [
       {
-        "name": "i7-13500",
+        "name": "i5-13500",
         "type": "Processor",
         "link": "https://amzn.to/44wGz64"
       },
