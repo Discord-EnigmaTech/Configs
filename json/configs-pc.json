@@ -1,8 +1,66 @@
 [
   {
+    "name": "Setup 1550€ torrone",
+    "date": "1/09/2023",
+    "description": "Config haut de gamme",
+    "tags": ["Gaming, Streaming, Création de contenu"],
+    "parts": [
+      {
+        "name": "i5-13600KF",
+        "type": "Processor",
+        "link": "https://amzn.to/3EHJUVL"
+      },
+      {
+        "name": "Deepcool AG620 ARGB ",
+        "type": "Fan",
+        "link": "https://amzn.to/45XcLkc"
+      },
+      {
+        "name": "MSI B760-P Wifi",
+        "type": "Motherboard",
+        "link": "https://amzn.to/3OZbe6v"
+      },
+      {
+        "name": "TEAMGROUP T-Force Vulcan Z (2x16GB)",
+        "type": "RAM",
+        "link": "https://amzn.to/480xiX6"
+      },
+      {
+        "name": "Sabrent Rocket 4.0 1TB",
+        "type": "SSD",
+        "link": "https://amzn.to/47QIVQa"
+      },
+      {
+        "name": "Zotac Twin Edge OC RTX 4070",
+        "type": "Video Card",
+        "link": "https://amzn.to/4823o4A"
+      },
+      {
+        "name": "Fractal Design Pop Air RGB",
+        "type": "Case",
+        "link": "https://amzn.to/47YTC3e"
+      },
+      {
+        "name": "MSI MPG A750GF 750W",
+        "type": "PSU",
+        "link": "https://amzn.to/3ZhacYp"
+      },
+      {
+        "name": "AOC 24G2ZE/BK 1080p 240hz",
+        "type": "Monitor",
+        "link": "https://amzn.to/3Z4VfIQ"
+      },
+      {
+        "name": "LG 24MP450P-B ",
+        "type": "Monitor",
+        "link": "https://amzn.to/45Q0crz"
+      }
+    ]
+  },
+  {
     "name": "Setup 1500€ SV_ZE_13",
     "date": "1/09/2023",
-    "description": "Config très haut de gamme",
+    "description": "Config haut de gamme",
     "tags": ["Gaming, Streaming, Création de contenu"],
     "parts": [
       {
