@@ -1,5 +1,69 @@
 [
   {
+    "name": "Config 1700€ Sleyz",
+    "date": "03/11/2023",
+    "description": "Config haut de gamme",
+    "panier": "https://www.amazon.fr/gp/aws/cart/add.html?AssociateTag=enigmatech07-21&ASIN.1=B0BN5YLBRG&Quantity.1=1&ASIN.2=B0C33KM8HQ&Quantity.2=1&ASIN.3=B0BJW1G7VN&Quantity.3=1&ASIN.4=B0BJPC6L2Z&Quantity.4=1&ASIN.5=B08QJHLC8J&Quantity.5=1&ASIN.6=B0CGM92TW8&Quantity.6=1&ASIN.7=B09QHL8DNZ&Quantity.7=1&ASIN.8=B0C3MC57D5&Quantity.8=1&ASIN.9=B0BKFMWXL7&Quantity.9=2&ASIN.10=B0BRNMP17J&Quantity.10=1&ASIN.11=B09VDKSMQL&Quantity.11=1",
+    "tags": ["Gaming, Streaming, Création de contenu"],
+    "parts": [
+      {
+        "name": "Intel Core i5 13500 ",
+        "type": "Processor",
+        "link": "https://www.amazon.fr/dp/B0BN5YLBRG?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Thermalright Frozen Prism 360 White ",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/dp/B0C33KM8HQ?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "MSI Pro B760-P WiFi DDR4 ",
+        "type": "Motherboard",
+        "link": "https://www.amazon.fr/dp/B0BJW1G7VN?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Lexar Thor DDR4 32Go ",
+        "type": "RAM",
+        "link": " https://www.amazon.fr/dp/B0BJPC6L2Z?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Samsung 980 Pro 2To ",
+        "type": "SSD",
+        "link": "https://www.amazon.fr/dp/B08QJHLC8J?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "XFX QICK319 Radeon RX 7800 XT ",
+        "type": "Video Card",
+        "link": "https://www.amazon.fr/dp/B0CGM92TW8?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Lian Li O11 Dynamic Evo ",
+        "type": "Case",
+        "link": "https://www.amazon.fr/dp/B09QHL8DNZ?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "MSI A850GL",
+        "type": "PSU",
+        "link": "https://www.amazon.fr/dp/B0C3MC57D5?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Thermalright TL-C12CW-S (pack de 3) ",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/dp/B0BKFMWXL7?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Thermalright TL-C12CW-S (unité)",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/dp/B0BRNMP17J?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Pâte thermique Arctic MX-6 ",
+        "type": "Paste",
+        "link": "https://www.amazon.fr/dp/B09VDKSMQL?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      }
+    ]
+  },
+  {
     "name": "Setup 1550€ torrone",
     "date": "1/09/2023",
     "description": "Config haut de gamme",
