@@ -32,7 +32,7 @@
     "name": "Config 1700€ - Sleyz",
     "date": "03/11/2023",
     "description": "Config haut de gamme",
-    "panier": "https://www.amazon.fr/gp/aws/cart/add.html?AssociateTag=enigmatech07-21&ASIN.1=B0BN5YLBRG&Quantity.1=1&ASIN.2=B0C33KM8HQ&Quantity.2=1&ASIN.3=B0BJW1G7VN&Quantity.3=1&ASIN.4=B0BJPC6L2Z&Quantity.4=1&ASIN.5=B08QJHLC8J&Quantity.5=1&ASIN.6=B0CGM92TW8&Quantity.6=1&ASIN.7=B09QHL8DNZ&Quantity.7=1&ASIN.8=B0C3MC57D5&Quantity.8=1&ASIN.9=B0BKFMWXL7&Quantity.9=2&ASIN.10=B0BRNMP17J&Quantity.10=1&ASIN.11=B09VDKSMQL&Quantity.11=1",
+    "panier": "https://www.amazon.fr/gp/aws/cart/add.html?ASIN.1=B0BN5YLBRG&ASIN.2=B0C33KM8HQ&ASIN.3=B0BJW1G7VN&ASIN.4=B0BJPC6L2Z&ASIN.5=B08QJHLC8J&ASIN.6=B0CGM92TW8&ASIN.7=B09QHL8DNZ&ASIN.8=B0BJHHPCQL&ASIN.9=B0B9PT1QW2&ASIN.10=B0BKFMWXL7&ASIN.11=B0BRNMP17J&ASIN.12=B09VDKSMQL&Quantity.1=1&Quantity.2=1&Quantity.3=1&Quantity.4=1&Quantity.5=1&Quantity.6=1&Quantity.7=1&Quantity.8=1&Quantity.9=1&Quantity.10=1&Quantity.11=1&Quantity.12=1&AssociateTag=enigmatech07-21",
     "tags": ["Gaming, Streaming, Création de contenu"],
     "parts": [
       {
@@ -71,9 +71,14 @@
         "link": "https://www.amazon.fr/dp/B09QHL8DNZ?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
       },
       {
-        "name": "MSI A850GL",
+        "name": "NZXT H9 Flow blanc",
+        "type": "Case",
+        "link": "https://www.amazon.fr/NZXT-Flow-blanc-CM-H91FW-01-moyen-tour/dp/B0BJHHPCQL?crid=35PYI3PLL3M0&keywords=h9+flow&qid=1699212196&sprefix=H9+%2Caps%2C186&sr=8-2&linkCode=ll1&tag=enigmatech07-21&linkId=c2d4f5519a0ff35682b1918bd1ffd155&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "NZXT C850",
         "type": "PSU",
-        "link": "https://www.amazon.fr/dp/B0C3MC57D5?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+        "link": "https://www.amazon.fr/gp/aw/d/B0B9PT1QW2?smid=A1X6FK5RDHNB96&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=4e4f8b14a9dba9dadd1d25bc02548059&language=fr_FR&ref_=as_li_ss_tl"
       },
       {
         "name": "Thermalright TL-C12CW-S (pack de 3) ",
