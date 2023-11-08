@@ -1,5 +1,59 @@
 [
   {
+    "name": "Config Cacao",
+    "date": "08/11/2023",
+    "description": "Config haut de gamme",
+    "panier": "https://www.amazon.fr/gp/aws/cart/add.html?ASIN.1=B0BLV7MNCC&Quantity.1=1&ASIN.2=B0CFY88TFH&Quantity.2=1&ASIN.3=B0B2X2M64R&Quantity.3=1&ASIN.4=B0CGM92TW8&Quantity.4=1&ASIN.5=B0B3D2Z1C3&Quantity.5=1&ASIN.6=B0B4345YV7&Quantity.6=1&ASIN.7=B0BRNK73X6&Quantity.7=1&ASIN.8=B0BVWMSP1V&Quantity.8=1&ASIN.9=B09VDKSMQL&Quantity.9=1&AssociateTag=enigmatech07-21",
+    "tags": ["Gaming, Streaming, Création de contenu"],
+    "parts": [
+      {
+        "name": "DeepCool LS720 SE",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/DeepCool-LS720-Refroidisseur-Technologie-Ventilateurs/dp/B0BLV7MNCC?crid=38QO00W3N368E&keywords=ls720%2Bse&qid=1699381471&sprefix=LS720%2Caps%2C77&sr=8-1&th=1&linkCode=ll1&tag=enigmatech07-21&linkId=ef866975b3db491f73cb7aa6502214da&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "MSI Z790 Gaming Plus ",
+        "type": "Motherboard",
+        "link": "https://www.amazon.fr/gp/product/B0CFY88TFH?smid=A1X6FK5RDHNB96&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=1d1cc4e6a212739f729eb9b16943fe91&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "Trident Z RGB DDR5 (6000MHz CL30) ",
+        "type": "RAM",
+        "link": "https://www.amazon.fr/gp/product/B0B2X2M64R?smid=A2HQUGZRG7ZTA2&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=aad46e4b10d09546bd6b6ac043fc32ba&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "AMD Radeon RX 7800XT ",
+        "type": "Video Card",
+        "link": "https://www.amazon.fr/gp/product/B0CGM92TW8?smid=A206ULAR6UT9T8&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=39ac31e719b95455f93c7933fe258959&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "Phanteks Eclipse G360A ",
+        "type": "Case",
+        "link": "https://www.amazon.fr/gp/product/B0B3D2Z1C3?smid=A2HQUGZRG7ZTA2&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=57c227baf1edff64325e8594dc55322d&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "MSI MPG A850G",
+        "type": "PSU",
+        "link": "https://www.amazon.fr/MSI-dalimentation-Gestion-enti%C3%A8rement-modulaire/dp/B0B4345YV7?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=HDNB1XGCOVJS&keywords=MSI%2BMPG%2BA850G&qid=1699465418&s=electronics&sprefix=msi%2Bmpg%2Ba850g%2B%2Celectronics%2C86&sr=1-2&th=1&linkCode=ll1&tag=enigmatech07-21&linkId=10531ac417885a5d5677f4524b58ebd2&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "ThermalRight TL-C12C",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/gp/product/B0BRNK73X6?smid=A1K0HRPQTHRQOO&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=8cfe63e5aa3aa9fa1fedd21725410807&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "LG 27GR75Q-B",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/gp/product/B0BVWMSP1V?smid=A1X6FK5RDHNB96&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=de65d29fa4851d65919cdcab1a041e3c&language=fr_FR&ref_=as_li_ss_tl"
+      },
+      {
+        "name": "Arctic MX-6 ",
+        "type": "Paste",
+        "link": "https://www.amazon.fr/gp/product/B09VDKSMQL?smid=AUBM4K0YLFI9J&psc=1&linkCode=ll1&tag=enigmatech07-21&linkId=6186e939725a8d6194bcb3d756ff2a93&language=fr_FR&ref_=as_li_ss_tl"
+      }
+    ]
+  },
+  {
     "name": "Upgrade Clément",
     "date": "04/11/2023",
     "description": "Pack upgrade",
