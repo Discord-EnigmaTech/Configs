@@ -1,5 +1,54 @@
 [
   {
+    "name": "Config 820€ - ByShinzo",
+    "date": "03/11/2023",
+    "description": "Config haut de gamme",
+    "panier": "https://www.amazon.fr/gp/aws/cart/add.html?AssociateTag=enigmatech07-21&ASIN.1=B09VCHR1VH&Quantity.1=1&ASIN.2=B0B4S93JPG&Quantity.2=1&ASIN.3=B08K93R2R7&Quantity.3=1&ASIN.4=B0BJPC6L2Z&Quantity.4=1&ASIN.5=B07TLYWMYW&Quantity.5=1&ASIN.6=B0C59RVD98&Quantity.6=1&ASIN.7=B08X4K89PZ&Quantity.7=1&ASIN.8=B07FLQ12X9&Quantity.8=1",
+    "tags": ["Gaming"],
+    "parts": [
+      {
+        "name": "AMD Ryzen 5 5600",
+        "type": "Processor",
+        "link": "https://www.amazon.fr/dp/B09VCHR1VH?tag=enigmatech07-21&linkCode=ogi&th=1"
+      },
+      {
+        "name": "Thermalright Assassin X Refined SE ARGB",
+        "type": "Fan",
+        "link": "https://www.amazon.fr/dp/B0B4S93JPG/?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Asus TUF GAMING B450M-PLUS II",
+        "type": "Motherboard",
+        "link": "https://www.amazon.fr/dp/B08K93R2R7?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Lexar THOR 32 GB (2 x 16 GB) DDR4-3200 CL16",
+        "type": "RAM",
+        "link": "https://www.amazon.fr/dp/B0BJPC6L2Z?tag=enigmatech07-21&linkCode=ogi&th=1"
+      },
+      {
+        "name": "Sabrent Rocket 4.0 1 TB",
+        "type": "SSD",
+        "link": "https://www.amazon.fr/dp/B07TLYWMYW?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "XFX Speedster SWFT 210 RX 7600 8 GB",
+        "type": "Video Card",
+        "link": "https://www.amazon.fr/dp/B0C59RVD98?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      },
+      {
+        "name": "Tecware Forge M2",
+        "type": "Case",
+        "link": "https://www.amazon.fr/dp/B08X4K89PZ?tag=enigmatech07-21&linkCode=ogi&th=1"
+      },
+      {
+        "name": "EVGA 600 BR 600 W",
+        "type": "PSU",
+        "link": "https://www.amazon.fr/dp/B07FLQ12X9?tag=enigmatech07-21&linkCode=ogi&th=1&psc=1"
+      }
+    ]
+  },
+  {
     "name": "Config Cacao",
     "date": "08/11/2023",
     "description": "Config haut de gamme",
